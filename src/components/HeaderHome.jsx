@@ -48,6 +48,9 @@ export const HeaderHome = () => {
                     <div className="dropdown-menu" aria-labelledby="dropdownId">
                         <NavLink className="dropdown-item" to="/redux-changenumber">Change number</NavLink>
                         <NavLink className="dropdown-item" to="/redux-change-car">Change car</NavLink>
+                        <NavLink className="dropdown-item" to="/redux-tinder-clone">Tinder clone</NavLink>
+                        <NavLink className="dropdown-item" to="/bt-xem-chi-tiet-redux">BT Xem chi tiết redux</NavLink>
+                        <NavLink className="dropdown-item" to="/bt-giohang-redux">BT giỏ hàng</NavLink>
                     </div>
                 </li>
 
